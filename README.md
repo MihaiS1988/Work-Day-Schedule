@@ -10,3 +10,4 @@ Links:
 
 https://mihais1988.github.io/Work-Day-Schedule/ (Webpage)
 
+https://github.com/MihaiS1988/Work-Day-Schedule (Github repository)
