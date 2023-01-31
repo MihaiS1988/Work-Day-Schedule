@@ -7,3 +7,6 @@ This is a Daily work planner used to store multiple events or to-do during offic
 The app will show in different colours depending if it's past (grey), present (red), future (green).
 
 Links:
+
+https://mihais1988.github.io/Work-Day-Schedule/ (Webpage)
+
